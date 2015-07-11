@@ -1,0 +1,20 @@
+{
+  "main": "colors.scss",
+  "name": "blue-leaf",
+  "version": "1.2.3",
+  "description": "Forked from MrMrs color",
+  "keywords": [
+    "colors"
+  ],
+  "authors": [
+    "James Grubb <james@jamesgrubb.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
